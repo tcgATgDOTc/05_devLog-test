@@ -1,0 +1,12 @@
+## basic info ##
+title: devLog test
+author: tcg
+email: tctATgDOTc
+description: test of 05_devLog for auto-gen blogs
+twitter_username: tbd
+github_username: tcgATgDOTc
+
+## build settings ##
+markdown: kramdown
+theme: minima
+
